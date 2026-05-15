@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Catalogo/">
+    <Project Path="Catalogo/Catalogo.csproj" Id="5d863335-200a-44bd-9f1f-33ac1faf3906" />
+  </Folder>
+  <Folder Name="/Inventario/">
+    <Project Path="Inventario/Inventario.csproj" />
+  </Folder>
+  <Folder Name="/Pacote/">
+    <Project Path="Pacote/Pacote.csproj" Id="87b526be-44be-489c-8391-e512165180b4" />
+  </Folder>
+</Solution>
